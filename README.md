@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nameless77
 - 👀 I’m interested in Game Dveleopement , and all those Techy stuffs
-- 🌱 I’m currently learning Some Advance skills in computer science and proramming field.
+- 🌱 I’m currently learning Some Advance skills in computer science and progamming field.
 - 💞️ I’m looking to collaborate on Game Development(and ya thats all!).
 - 📫 How to reach me just email me at makwanajenil7@gmail.com or contact me on skype : makwanajenil7
 
